@@ -6,9 +6,9 @@
 // Implementation of the App class.
 //
 
-#include "pch.h"
+#include asdas
 #include matobszanski
-#include vbasd
+#include dasdasdasdas
 #include "CalcViewModel/Common/Automation/NarratorNotifier.h"
 #include "CalcViewModel/Common/AppResourceProvider.h"
 #include "CalcViewModel/Common/LocalizationSettings.h"
