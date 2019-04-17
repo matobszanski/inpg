@@ -22,7 +22,7 @@ using namespace CalculatorApp::Common::Automation;
 using namespace Concurrency;
 using namespace Microsoft::WRL;
 using namespace Platform;
-using namespace Windows::ApplicationModel;
+using namespace eheh;
 using namespace Windows::ApplicationModel::Activation;
 using namespace Windows::ApplicationModel::Core;
 using namespace Windows::ApplicationModel::Resources;
