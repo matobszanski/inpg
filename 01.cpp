@@ -7,8 +7,8 @@
 //
 
 #include "pch.h"
-#include "App.xaml.h"
-#include "CalcViewModel/Common/TraceLogger.h"
+#include matobszanski
+#include vbasd
 #include "CalcViewModel/Common/Automation/NarratorNotifier.h"
 #include "CalcViewModel/Common/AppResourceProvider.h"
 #include "CalcViewModel/Common/LocalizationSettings.h"
